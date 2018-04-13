@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		275BD9CC206F437C003D3FA9 /* GirlsOnlySchoolVC-result-01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275BD9CB206F437C003D3FA9 /* GirlsOnlySchoolVC-result-01.swift */; };
+		275BD9CE206F4972003D3FA9 /* GirlsOnlySchoolVC-result-02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275BD9CD206F4972003D3FA9 /* GirlsOnlySchoolVC-result-02.swift */; };
+		275BD9D0206F4A98003D3FA9 /* GirlsOnlySchoolVC-result-03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275BD9CF206F4A98003D3FA9 /* GirlsOnlySchoolVC-result-03.swift */; };
+		275BD9D220700D03003D3FA9 /* MathProblemVC-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275BD9D120700D03003D3FA9 /* MathProblemVC-2.swift */; };
+		275BD9D42070448F003D3FA9 /* MathProblemVC-result-01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275BD9D32070448F003D3FA9 /* MathProblemVC-result-01.swift */; };
+		277DA88020771213000604B8 /* MathProblemVC-result-02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA87F20771213000604B8 /* MathProblemVC-result-02.swift */; };
+		277DA88220773C46000604B8 /* SportsChoiceVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA88120773C46000604B8 /* SportsChoiceVC.swift */; };
+		277DA88420773FB9000604B8 /* SportsChoiceVC-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA88320773FB9000604B8 /* SportsChoiceVC-2.swift */; };
+		277DA88620774AF1000604B8 /* MathProblemVC-result-03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA88520774AF0000604B8 /* MathProblemVC-result-03.swift */; };
+		277DA88820774D54000604B8 /* MathProblemVC-result-04.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA88720774D54000604B8 /* MathProblemVC-result-04.swift */; };
+		277DA88A20775F91000604B8 /* CousinsHomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA88920775F91000604B8 /* CousinsHomeVC.swift */; };
+		277DA88C2078A7E9000604B8 /* gif-tool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA88B2078A7E9000604B8 /* gif-tool.swift */; };
+		277DA88E2078A8A6000604B8 /* gif-test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA88D2078A8A6000604B8 /* gif-test.swift */; };
+		277DA8902078A9CF000604B8 /* simpsons-playground.gif in Resources */ = {isa = PBXBuildFile; fileRef = 277DA88F2078A9CB000604B8 /* simpsons-playground.gif */; };
+		277DA892207937DD000604B8 /* loginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA891207937DC000604B8 /* loginVC.swift */; };
+		277DA894207937F6000604B8 /* registrationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA893207937F6000604B8 /* registrationVC.swift */; };
+		277DA8962079525B000604B8 /* TextToSpeechDemoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277DA8952079525A000604B8 /* TextToSpeechDemoVC.swift */; };
+		277DA89920795428000604B8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 277DA89820795428000604B8 /* AVFoundation.framework */; };
 		27EF63B82064D34E004801E9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63B72064D34E004801E9 /* AppDelegate.swift */; };
 		27EF63BA2064D34E004801E9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63B92064D34E004801E9 /* ViewController.swift */; };
 		27EF63BD2064D34E004801E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27EF63BB2064D34E004801E9 /* Main.storyboard */; };
@@ -14,6 +32,15 @@
 		27EF63C22064D34E004801E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27EF63C02064D34E004801E9 /* LaunchScreen.storyboard */; };
 		27EF63CD2064D34E004801E9 /* ShanliTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63CC2064D34E004801E9 /* ShanliTests.swift */; };
 		27EF63D82064D34E004801E9 /* ShanliUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63D72064D34E004801E9 /* ShanliUITests.swift */; };
+		27EF63E820661AE8004801E9 /* BoysOrGirlsToyVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63E720661AE8004801E9 /* BoysOrGirlsToyVC.swift */; };
+		27EF63EA20661B64004801E9 /* GoToSchoolAt6VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63E920661B64004801E9 /* GoToSchoolAt6VC.swift */; };
+		27EF63EC20661F19004801E9 /* GirlsOnlySchoolVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63EB20661F19004801E9 /* GirlsOnlySchoolVC.swift */; };
+		27EF63EE2066433A004801E9 /* BoysOrGirlsToyVC-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63ED2066433A004801E9 /* BoysOrGirlsToyVC-2.swift */; };
+		27EF63F02066E8D7004801E9 /* GirlsOnlySchoolVC-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63EF2066E8D7004801E9 /* GirlsOnlySchoolVC-2.swift */; };
+		27EF63F22066FE04004801E9 /* BoysOrGirlsToyVC-result-01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63F12066FE04004801E9 /* BoysOrGirlsToyVC-result-01.swift */; };
+		27EF63F42066FE40004801E9 /* BoysOrGirlsToyVC-result-02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63F32066FE40004801E9 /* BoysOrGirlsToyVC-result-02.swift */; };
+		27EF63F62067016F004801E9 /* BoysOrGirlsToyVC-result-03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63F52067016F004801E9 /* BoysOrGirlsToyVC-result-03.swift */; };
+		27EF63F820670C1E004801E9 /* MathProblemVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EF63F720670C1E004801E9 /* MathProblemVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +61,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		275BD9CB206F437C003D3FA9 /* GirlsOnlySchoolVC-result-01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GirlsOnlySchoolVC-result-01.swift"; sourceTree = "<group>"; };
+		275BD9CD206F4972003D3FA9 /* GirlsOnlySchoolVC-result-02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GirlsOnlySchoolVC-result-02.swift"; sourceTree = "<group>"; };
+		275BD9CF206F4A98003D3FA9 /* GirlsOnlySchoolVC-result-03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GirlsOnlySchoolVC-result-03.swift"; sourceTree = "<group>"; };
+		275BD9D120700D03003D3FA9 /* MathProblemVC-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MathProblemVC-2.swift"; sourceTree = "<group>"; };
+		275BD9D32070448F003D3FA9 /* MathProblemVC-result-01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MathProblemVC-result-01.swift"; sourceTree = "<group>"; };
+		277DA87F20771213000604B8 /* MathProblemVC-result-02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MathProblemVC-result-02.swift"; sourceTree = "<group>"; };
+		277DA88120773C46000604B8 /* SportsChoiceVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsChoiceVC.swift; sourceTree = "<group>"; };
+		277DA88320773FB9000604B8 /* SportsChoiceVC-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SportsChoiceVC-2.swift"; sourceTree = "<group>"; };
+		277DA88520774AF0000604B8 /* MathProblemVC-result-03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MathProblemVC-result-03.swift"; sourceTree = "<group>"; };
+		277DA88720774D54000604B8 /* MathProblemVC-result-04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MathProblemVC-result-04.swift"; sourceTree = "<group>"; };
+		277DA88920775F91000604B8 /* CousinsHomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CousinsHomeVC.swift; sourceTree = "<group>"; };
+		277DA88B2078A7E9000604B8 /* gif-tool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "gif-tool.swift"; sourceTree = "<group>"; };
+		277DA88D2078A8A6000604B8 /* gif-test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "gif-test.swift"; sourceTree = "<group>"; };
+		277DA88F2078A9CB000604B8 /* simpsons-playground.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "simpsons-playground.gif"; sourceTree = "<group>"; };
+		277DA891207937DC000604B8 /* loginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginVC.swift; sourceTree = "<group>"; };
+		277DA893207937F6000604B8 /* registrationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = registrationVC.swift; sourceTree = "<group>"; };
+		277DA8952079525A000604B8 /* TextToSpeechDemoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextToSpeechDemoVC.swift; sourceTree = "<group>"; };
+		277DA89820795428000604B8 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		27EF63B42064D34E004801E9 /* Shanli.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shanli.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27EF63B72064D34E004801E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27EF63B92064D34E004801E9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +92,15 @@
 		27EF63D32064D34E004801E9 /* ShanliUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShanliUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27EF63D72064D34E004801E9 /* ShanliUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShanliUITests.swift; sourceTree = "<group>"; };
 		27EF63D92064D34E004801E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27EF63E720661AE8004801E9 /* BoysOrGirlsToyVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoysOrGirlsToyVC.swift; sourceTree = "<group>"; };
+		27EF63E920661B64004801E9 /* GoToSchoolAt6VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoToSchoolAt6VC.swift; sourceTree = "<group>"; };
+		27EF63EB20661F19004801E9 /* GirlsOnlySchoolVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GirlsOnlySchoolVC.swift; sourceTree = "<group>"; };
+		27EF63ED2066433A004801E9 /* BoysOrGirlsToyVC-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BoysOrGirlsToyVC-2.swift"; sourceTree = "<group>"; };
+		27EF63EF2066E8D7004801E9 /* GirlsOnlySchoolVC-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GirlsOnlySchoolVC-2.swift"; sourceTree = "<group>"; };
+		27EF63F12066FE04004801E9 /* BoysOrGirlsToyVC-result-01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BoysOrGirlsToyVC-result-01.swift"; sourceTree = "<group>"; };
+		27EF63F32066FE40004801E9 /* BoysOrGirlsToyVC-result-02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BoysOrGirlsToyVC-result-02.swift"; sourceTree = "<group>"; };
+		27EF63F52067016F004801E9 /* BoysOrGirlsToyVC-result-03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BoysOrGirlsToyVC-result-03.swift"; sourceTree = "<group>"; };
+		27EF63F720670C1E004801E9 /* MathProblemVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathProblemVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				277DA89920795428000604B8 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +129,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		277DA89720795427000604B8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				277DA89820795428000604B8 /* AVFoundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		27EF63AB2064D34D004801E9 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +144,7 @@
 				27EF63CB2064D34E004801E9 /* ShanliTests */,
 				27EF63D62064D34E004801E9 /* ShanliUITests */,
 				27EF63B52064D34E004801E9 /* Products */,
+				277DA89720795427000604B8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,8 +161,34 @@
 		27EF63B62064D34E004801E9 /* Shanli */ = {
 			isa = PBXGroup;
 			children = (
+				277DA891207937DC000604B8 /* loginVC.swift */,
+				277DA893207937F6000604B8 /* registrationVC.swift */,
 				27EF63B72064D34E004801E9 /* AppDelegate.swift */,
+				277DA88B2078A7E9000604B8 /* gif-tool.swift */,
+				277DA88D2078A8A6000604B8 /* gif-test.swift */,
+				277DA88F2078A9CB000604B8 /* simpsons-playground.gif */,
 				27EF63B92064D34E004801E9 /* ViewController.swift */,
+				27EF63E920661B64004801E9 /* GoToSchoolAt6VC.swift */,
+				27EF63E720661AE8004801E9 /* BoysOrGirlsToyVC.swift */,
+				27EF63ED2066433A004801E9 /* BoysOrGirlsToyVC-2.swift */,
+				27EF63F12066FE04004801E9 /* BoysOrGirlsToyVC-result-01.swift */,
+				27EF63F32066FE40004801E9 /* BoysOrGirlsToyVC-result-02.swift */,
+				27EF63F52067016F004801E9 /* BoysOrGirlsToyVC-result-03.swift */,
+				27EF63EB20661F19004801E9 /* GirlsOnlySchoolVC.swift */,
+				27EF63EF2066E8D7004801E9 /* GirlsOnlySchoolVC-2.swift */,
+				275BD9CB206F437C003D3FA9 /* GirlsOnlySchoolVC-result-01.swift */,
+				275BD9CD206F4972003D3FA9 /* GirlsOnlySchoolVC-result-02.swift */,
+				275BD9CF206F4A98003D3FA9 /* GirlsOnlySchoolVC-result-03.swift */,
+				27EF63F720670C1E004801E9 /* MathProblemVC.swift */,
+				275BD9D120700D03003D3FA9 /* MathProblemVC-2.swift */,
+				275BD9D32070448F003D3FA9 /* MathProblemVC-result-01.swift */,
+				277DA87F20771213000604B8 /* MathProblemVC-result-02.swift */,
+				277DA88520774AF0000604B8 /* MathProblemVC-result-03.swift */,
+				277DA88720774D54000604B8 /* MathProblemVC-result-04.swift */,
+				277DA88120773C46000604B8 /* SportsChoiceVC.swift */,
+				277DA88320773FB9000604B8 /* SportsChoiceVC-2.swift */,
+				277DA88920775F91000604B8 /* CousinsHomeVC.swift */,
+				277DA8952079525A000604B8 /* TextToSpeechDemoVC.swift */,
 				27EF63BB2064D34E004801E9 /* Main.storyboard */,
 				27EF63BE2064D34E004801E9 /* Assets.xcassets */,
 				27EF63C02064D34E004801E9 /* LaunchScreen.storyboard */,
@@ -187,6 +277,9 @@
 		27EF63AC2064D34E004801E9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					yes,
+				);
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Li Zhaotian";
@@ -233,6 +326,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27EF63C22064D34E004801E9 /* LaunchScreen.storyboard in Resources */,
+				277DA8902078A9CF000604B8 /* simpsons-playground.gif in Resources */,
 				27EF63BF2064D34E004801E9 /* Assets.xcassets in Resources */,
 				27EF63BD2064D34E004801E9 /* Main.storyboard in Resources */,
 			);
@@ -259,8 +353,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27EF63F820670C1E004801E9 /* MathProblemVC.swift in Sources */,
+				27EF63F62067016F004801E9 /* BoysOrGirlsToyVC-result-03.swift in Sources */,
+				277DA88220773C46000604B8 /* SportsChoiceVC.swift in Sources */,
 				27EF63BA2064D34E004801E9 /* ViewController.swift in Sources */,
+				277DA8962079525B000604B8 /* TextToSpeechDemoVC.swift in Sources */,
+				277DA88020771213000604B8 /* MathProblemVC-result-02.swift in Sources */,
+				277DA88420773FB9000604B8 /* SportsChoiceVC-2.swift in Sources */,
+				27EF63EA20661B64004801E9 /* GoToSchoolAt6VC.swift in Sources */,
+				275BD9D0206F4A98003D3FA9 /* GirlsOnlySchoolVC-result-03.swift in Sources */,
+				27EF63F22066FE04004801E9 /* BoysOrGirlsToyVC-result-01.swift in Sources */,
+				275BD9D42070448F003D3FA9 /* MathProblemVC-result-01.swift in Sources */,
+				275BD9CE206F4972003D3FA9 /* GirlsOnlySchoolVC-result-02.swift in Sources */,
+				275BD9D220700D03003D3FA9 /* MathProblemVC-2.swift in Sources */,
+				277DA88E2078A8A6000604B8 /* gif-test.swift in Sources */,
+				27EF63F02066E8D7004801E9 /* GirlsOnlySchoolVC-2.swift in Sources */,
+				275BD9CC206F437C003D3FA9 /* GirlsOnlySchoolVC-result-01.swift in Sources */,
+				277DA88A20775F91000604B8 /* CousinsHomeVC.swift in Sources */,
+				27EF63EE2066433A004801E9 /* BoysOrGirlsToyVC-2.swift in Sources */,
+				277DA88C2078A7E9000604B8 /* gif-tool.swift in Sources */,
 				27EF63B82064D34E004801E9 /* AppDelegate.swift in Sources */,
+				277DA88820774D54000604B8 /* MathProblemVC-result-04.swift in Sources */,
+				277DA88620774AF1000604B8 /* MathProblemVC-result-03.swift in Sources */,
+				277DA894207937F6000604B8 /* registrationVC.swift in Sources */,
+				277DA892207937DD000604B8 /* loginVC.swift in Sources */,
+				27EF63E820661AE8004801E9 /* BoysOrGirlsToyVC.swift in Sources */,
+				27EF63F42066FE40004801E9 /* BoysOrGirlsToyVC-result-02.swift in Sources */,
+				27EF63EC20661F19004801E9 /* GirlsOnlySchoolVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
