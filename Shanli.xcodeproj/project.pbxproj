@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2748DEB82081CA7D00C4ACA2 /* SportsChoiceVC-result-01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2748DEB72081CA7D00C4ACA2 /* SportsChoiceVC-result-01.swift */; };
+		2748DEBA2081CA9B00C4ACA2 /* SportsChoiceVC-result-02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2748DEB92081CA9B00C4ACA2 /* SportsChoiceVC-result-02.swift */; };
+		2748DEBC20826E3000C4ACA2 /* CousinsHomeVC-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2748DEBB20826E3000C4ACA2 /* CousinsHomeVC-2.swift */; };
+		2748DEBE2082730900C4ACA2 /* CousinsHomeVC-result-01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2748DEBD2082730900C4ACA2 /* CousinsHomeVC-result-01.swift */; };
 		275BD9CC206F437C003D3FA9 /* GirlsOnlySchoolVC-result-01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275BD9CB206F437C003D3FA9 /* GirlsOnlySchoolVC-result-01.swift */; };
 		275BD9CE206F4972003D3FA9 /* GirlsOnlySchoolVC-result-02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275BD9CD206F4972003D3FA9 /* GirlsOnlySchoolVC-result-02.swift */; };
 		275BD9D0206F4A98003D3FA9 /* GirlsOnlySchoolVC-result-03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 275BD9CF206F4A98003D3FA9 /* GirlsOnlySchoolVC-result-03.swift */; };
@@ -61,6 +65,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2748DEB72081CA7D00C4ACA2 /* SportsChoiceVC-result-01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SportsChoiceVC-result-01.swift"; sourceTree = "<group>"; };
+		2748DEB92081CA9B00C4ACA2 /* SportsChoiceVC-result-02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SportsChoiceVC-result-02.swift"; sourceTree = "<group>"; };
+		2748DEBB20826E3000C4ACA2 /* CousinsHomeVC-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CousinsHomeVC-2.swift"; sourceTree = "<group>"; };
+		2748DEBD2082730900C4ACA2 /* CousinsHomeVC-result-01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CousinsHomeVC-result-01.swift"; sourceTree = "<group>"; };
 		275BD9CB206F437C003D3FA9 /* GirlsOnlySchoolVC-result-01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GirlsOnlySchoolVC-result-01.swift"; sourceTree = "<group>"; };
 		275BD9CD206F4972003D3FA9 /* GirlsOnlySchoolVC-result-02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GirlsOnlySchoolVC-result-02.swift"; sourceTree = "<group>"; };
 		275BD9CF206F4A98003D3FA9 /* GirlsOnlySchoolVC-result-03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GirlsOnlySchoolVC-result-03.swift"; sourceTree = "<group>"; };
@@ -187,7 +195,11 @@
 				277DA88720774D54000604B8 /* MathProblemVC-result-04.swift */,
 				277DA88120773C46000604B8 /* SportsChoiceVC.swift */,
 				277DA88320773FB9000604B8 /* SportsChoiceVC-2.swift */,
+				2748DEB72081CA7D00C4ACA2 /* SportsChoiceVC-result-01.swift */,
+				2748DEB92081CA9B00C4ACA2 /* SportsChoiceVC-result-02.swift */,
 				277DA88920775F91000604B8 /* CousinsHomeVC.swift */,
+				2748DEBB20826E3000C4ACA2 /* CousinsHomeVC-2.swift */,
+				2748DEBD2082730900C4ACA2 /* CousinsHomeVC-result-01.swift */,
 				277DA8952079525A000604B8 /* TextToSpeechDemoVC.swift */,
 				27EF63BB2064D34E004801E9 /* Main.storyboard */,
 				27EF63BE2064D34E004801E9 /* Assets.xcassets */,
@@ -357,6 +369,7 @@
 				27EF63F62067016F004801E9 /* BoysOrGirlsToyVC-result-03.swift in Sources */,
 				277DA88220773C46000604B8 /* SportsChoiceVC.swift in Sources */,
 				27EF63BA2064D34E004801E9 /* ViewController.swift in Sources */,
+				2748DEBA2081CA9B00C4ACA2 /* SportsChoiceVC-result-02.swift in Sources */,
 				277DA8962079525B000604B8 /* TextToSpeechDemoVC.swift in Sources */,
 				277DA88020771213000604B8 /* MathProblemVC-result-02.swift in Sources */,
 				277DA88420773FB9000604B8 /* SportsChoiceVC-2.swift in Sources */,
@@ -366,6 +379,7 @@
 				275BD9D42070448F003D3FA9 /* MathProblemVC-result-01.swift in Sources */,
 				275BD9CE206F4972003D3FA9 /* GirlsOnlySchoolVC-result-02.swift in Sources */,
 				275BD9D220700D03003D3FA9 /* MathProblemVC-2.swift in Sources */,
+				2748DEBE2082730900C4ACA2 /* CousinsHomeVC-result-01.swift in Sources */,
 				277DA88E2078A8A6000604B8 /* gif-test.swift in Sources */,
 				27EF63F02066E8D7004801E9 /* GirlsOnlySchoolVC-2.swift in Sources */,
 				275BD9CC206F437C003D3FA9 /* GirlsOnlySchoolVC-result-01.swift in Sources */,
@@ -375,9 +389,11 @@
 				27EF63B82064D34E004801E9 /* AppDelegate.swift in Sources */,
 				277DA88820774D54000604B8 /* MathProblemVC-result-04.swift in Sources */,
 				277DA88620774AF1000604B8 /* MathProblemVC-result-03.swift in Sources */,
+				2748DEB82081CA7D00C4ACA2 /* SportsChoiceVC-result-01.swift in Sources */,
 				277DA894207937F6000604B8 /* registrationVC.swift in Sources */,
 				277DA892207937DD000604B8 /* loginVC.swift in Sources */,
 				27EF63E820661AE8004801E9 /* BoysOrGirlsToyVC.swift in Sources */,
+				2748DEBC20826E3000C4ACA2 /* CousinsHomeVC-2.swift in Sources */,
 				27EF63F42066FE40004801E9 /* BoysOrGirlsToyVC-result-02.swift in Sources */,
 				27EF63EC20661F19004801E9 /* GirlsOnlySchoolVC.swift in Sources */,
 			);
